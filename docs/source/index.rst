@@ -9,14 +9,20 @@ Welcome to OpenRosa XForms Documentation's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :titlesonly:
+   
+   documentation
+   apis
+   
 
+   
+   
+   
+   
+   
 
+Search
+======
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
